@@ -1,2 +1,2 @@
 # iCodeNinja007
-A place where all projects come true
+All codes for basic machine learning concepts
