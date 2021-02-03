@@ -1,2 +1,2 @@
-# iCodeNinja007
+# procject_S
 All codes for basic machine learning concepts
